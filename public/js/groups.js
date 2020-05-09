@@ -1,0 +1,1 @@
+$(".tableGruops").dataTable();

@@ -1,0 +1,131 @@
+#back
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: url(../img/plantilla/back1.jpg);
+    background-size: cover;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.login-margin
+{
+    margin-top: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*
+.capitalize
+{
+    text-transform: capitalize;
+}*/
+
+button
+{
+    font-family: sans-serif;
+}
+
+.navbar-custom-menu
+{
+	float: right !important;
+}
+
+@media (min-width: 768px){}
+	.navbar-nav {
+	    float: left;
+	    margin: 0;
+	}
+}
+
+.navbar-nav {
+    margin: 7.5px -15px;
+}
+
+.nav {
+    padding-left: 0 !important;
+    margin-bottom: 0 !important;
+    list-style: none !important;
+}
+
+.generic
+{
+	margin-top: 0.5em;
+}
+
+.generic a
+{
+	color: black;
+    font-size: 18px;
+}
+
+.margin-sale
+{
+    margin-bottom: initial;
+}
+
+.margin-dis
+{
+    margin-left: auto;
+    display: -webkit-box;
+}
+
+.name-user
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: medium;
+    width: 50%;
+}
+
+.code-sale
+{
+    width: 50%;
+    margin-bottom: auto;
+    margin-left: 30%;
+    margin-top: 2px;
+}
+
+.alto
+{
+    height: 45px;
+    margin-left: 55%;
+}
+
+.table-p
+{
+    margin-left: 40%;
+}
+
+.size-td
+{
+    width: 30%;
+}
+
+.size-td-two
+{
+    width: 70%;
+}
+
+.letter-type
+{
+    font-family: monospace;
+    font: xx-large;
+}
+
+.letter-type-two
+{
+    font-family: monospace;
+    font: inherit
+}
+
+hr.miLinea{
+    height: 10px;
+  margin-left: 0%;
+  margin-right: 50%;
+  background-color: red;
+  border: 03px;
+
+}
